@@ -6,7 +6,7 @@
 - Virtual Reality Enthusiast
 
 ## Projects
-- HappleCraft Games: An upcoming indie game studio
+- HappleCraft Games: An indie game studio
 - HappleMan's Admin: A free general-purpose discord bot
 - Virtual Assistant: An AI-powered server to simplify tasks
 
